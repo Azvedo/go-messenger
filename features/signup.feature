@@ -50,4 +50,4 @@
         And clica no botão “criar conta”
         Then o usuário está na página de “Confirme o seu email”
         When o usuário confirma o email
-        Then o usuário está na página de “login
+        Then o usuário está na página de “login" 
